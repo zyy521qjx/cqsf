@@ -1,0 +1,13 @@
+body,td,th { font-size: 12px; }
+body { font-size: 12px; font: 75%/150% verdana,ËÎÌו; color: #FFF; background:url(1314ps_beijing.jpg) top center no-repeat #540b04; margin:0px;}
+img{border:0px;}
+a { font-size: 12px; color:#FFFF33; }
+a:link { text-decoration: none;}
+a:visited { text-decoration: none; color: #FFFF33; }
+a:hover { text-decoration: none; color: #FF0000; text-decoration:underline;}
+a:active { text-decoration: none; color: #FF0000;}
+ul {  margin:0 0 0 0; padding: 0; list-style: none; }
+
+
+.main { margin:0 auto; width:1026px; overflow:hidden;}
+.main1 { margin:auto; overflow:hidden; background:url(1314ps_dibu.jpg) bottom no-repeat;}
